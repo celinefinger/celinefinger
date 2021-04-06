@@ -5,6 +5,6 @@
 
 🎓 Ecole O'Clock
 
-💻 HTML, CSS, JavaScript, SQL, React-Redux et plus ! __Never stop learning!__
+💻 HTML5, CSS3, JavaScript, React-Redux, SQL, Node.js et plus ! __Never stop learning!__
 
 ✍ celine.finger@gmail.com
